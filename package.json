@@ -2,7 +2,7 @@
   "name": "bootstrap-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://satyamashish06.github.io/BootstrapPortfolio",
+  "homepage": "https://satyamashish06.github.io/BootsrapPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
